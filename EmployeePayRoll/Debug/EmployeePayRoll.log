@@ -1,0 +1,5 @@
+﻿  Employee.cpp
+  main.cpp
+C:\Users\user\Desktop\uniUsa\Fall2021\Advanced C++ - CSC 284\EmployeePayRoll\main.cpp(394,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  EmployeePayRoll.vcxproj -> C:\Users\user\Desktop\uniUsa\Fall2021\Advanced C++ - CSC 284\EmployeePayRoll\Debug\EmployeePayRoll.exe
